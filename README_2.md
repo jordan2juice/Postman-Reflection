@@ -46,3 +46,7 @@ I had to post the request to Github via Postman and it was successful.
 Below is the new repo that was created in Postman.
 
 ![Screenshot 2024-02-08 204104](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/218976cb-4777-4509-aadc-95a01243bad4)
+
+Here is an image in Postman of the Github Collection with both requests saved.
+
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/27e1f6e5-1ca2-48a2-a618-5452db63e6e8)
