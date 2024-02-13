@@ -21,6 +21,10 @@ Each API needs certain things to get the information that is needed. My API was 
 My API asked me for a location a day one and day two.  The "day two" gives the API a range of days to present the information. If I didn't give all the parameters. I
 would get an error stating that I entered a bad request.
 
+# Day 3 - Postman Collections
+
+
+
 
 
 
