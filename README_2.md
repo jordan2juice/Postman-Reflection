@@ -57,8 +57,26 @@ I had to post the request to Github via Postman and it was successful.
 
 Below is the new repo that was created in Postman.
 
+
 ![Screenshot 2024-02-08 204104](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/218976cb-4777-4509-aadc-95a01243bad4)
 
 Here is an image in Postman of the Github Collection with both requests saved.
 
 ![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/27e1f6e5-1ca2-48a2-a618-5452db63e6e8)
+
+# Day 5 - Thunder Client
+
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/3db59881-629d-4d21-a20a-3b9812a82250)
+
+Created a collection and started to make a post request.
+
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/bdd872a1-fc75-4d5a-97ee-b817df1bdc65)
+
+Created a post request to create a new repo.
+
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/6eb08d11-8f8e-4432-adc6-91f592a9f3c4)
+
+Here is my repo that I created using Thunder Client.
+
+
+
