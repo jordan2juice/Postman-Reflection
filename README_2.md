@@ -23,9 +23,17 @@ would get an error stating that I entered a bad request.
 
 # Day 3 - Postman Collections
 
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/a4ffdd37-bb38-4e21-886c-efc27411d887)
 
+Created a Weather Collection with a request for Gatlinburg, TN data from the API.
 
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/58a5776f-6f7c-4864-8487-a4b12f00c0e7)
 
+In the Weather Collection if added another city request to my collection.
+
+![image](https://github.com/jordan2juice/Postman-Reflection/assets/146011829/989caf6d-990d-4fdb-bd43-b64c111d5c11)
+
+I added Environment variables to my weather collection
 
 
 # Day 4'
